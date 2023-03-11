@@ -1,0 +1,14 @@
+body{
+    background: url(02.png) no-repeat top center;
+    background-size:900px 700px ;
+    
+}
+.texto{
+    background-color: rgba(36, 3, 3, 0.199);
+    border: solid;
+    font-family: "arial";
+    font-size: 150%;
+    margin: 0 auto;
+    padding: 2em;
+    width: 30%;
+}
